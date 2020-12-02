@@ -4,5 +4,5 @@
 * cpgplot
 * AST
   * build from source
-* cfitsio
+* fitsio
   * build from source
